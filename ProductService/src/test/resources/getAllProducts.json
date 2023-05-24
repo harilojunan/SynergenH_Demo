@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Cheesy Onion with Green chillies - Small",
+        "description": "A delighful combination of cream cheese & Seeni Sambol topped with Mozzarella & baked to perfection",
+        "quantity": 1,
+        "price": 790.0,
+        "catagory": {
+            "id": 1,
+            "name": "pizza",
+            "description": "all pizza's allocate this catagory",
+            "hibernateLazyInitializer": {}
+        }
+    },
+    {
+        "id": 2,
+        "name": "Seeni Sambol & cheese - Small",
+        "description": "A delighful combination of cream cheese & Seeni Sambol topped with Mozzarella & baked to perfection",
+        "quantity": 1,
+        "price": 770.0,
+        "catagory": {
+            "id": 1,
+            "name": "pizza",
+            "description": "all pizza's allocate this catagory",
+            "hibernateLazyInitializer": {}
+        }
+    },
+    {
+        "id": 3,
+        "name": "Cheesy Tomato with Green chillies - Small",
+        "description": "A delighful combination of cream cheese & Seeni Sambol topped with Mozzarella & baked to perfection",
+        "quantity": 1,
+        "price": 770.0,
+        "catagory": {
+            "id": 1,
+            "name": "pizza",
+            "description": "all pizza's allocate this catagory",
+            "hibernateLazyInitializer": {}
+        }
+    },
+    {
+        "id": 4,
+        "name": "Cheesy Tomato with Green chillies - Medium",
+        "description": "A delighful combination of cream cheese & Seeni Sambol topped with Mozzarella & baked to perfection",
+        "quantity": 1,
+        "price": 1440.0,
+        "catagory": {
+            "id": 1,
+            "name": "pizza",
+            "description": "all pizza's allocate this catagory",
+            "hibernateLazyInitializer": {}
+        }
+    }
+]

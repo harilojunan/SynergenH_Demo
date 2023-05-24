@@ -1,0 +1,17 @@
+[
+    {
+       "id": 1,
+        "fname": "Test01",
+        "lname": "Check",
+        "phone": "0778123456",
+        "email": "test01@gmail.com"
+    },
+    {
+        
+        "id": 2,
+        "fname": "Hari",
+        "lname": "Nithiya",
+        "phone": "0770123456",
+        "email": "test@gmail.com"
+    }
+]

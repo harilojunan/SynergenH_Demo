@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "Cheesy Tomato with Green chillies - Large",
+    "description": "A delighful combination of cream cheese & Seeni Sambol topped with Mozzarella & baked to perfection",
+    "quantity": 1,
+    "price": 2660.0,
+    "catagory": {
+        "id": 1,
+        "name": "pizza",
+        "description": "all pizza's allocate this catagory",
+        "hibernateLazyInitializer": {}
+    }
+}

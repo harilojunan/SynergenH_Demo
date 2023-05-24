@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "pizza",
+        "description": "all pizza's allocate this catagory"
+    },
+    {
+        "id": 2,
+        "name": "pasta",
+        "description": "all pasta's allocate this catagory"
+    }
+]
